@@ -1,0 +1,11 @@
+/Users/adelaide/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.deps.json
+/Users/adelaide/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.runtimeconfig.json
+/Users/adelaide/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.runtimeconfig.dev.json
+/Users/adelaide/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.dll
+/Users/adelaide/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.pdb
+/Users/adelaide/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.csprojAssemblyReference.cache
+/Users/adelaide/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.csproj.CoreCompileInputs.cache
+/Users/adelaide/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.AssemblyInfoInputs.cache
+/Users/adelaide/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.AssemblyInfo.cs
+/Users/adelaide/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.dll
+/Users/adelaide/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.pdb
